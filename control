@@ -1,0 +1,10 @@
+Package: com.kamy.phptest
+Name: PHPTest
+Version: 0.0.1
+Depends: php
+Architecture: iphoneos-arm
+Description: a test for running php in UIWebView.
+Section: Beta
+Author: Kurdtkobain <kurdtkobain@kamy.tk>
+Sponsor: Kurdtkobain <http://kamy.tk>
+Maintainer: Kurdtkobain <kurdtkobain@kamy.tk>
